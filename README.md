@@ -1,1 +1,1 @@
-# Next-Day-Fire-Spread-Prediction
+# Next Day Fire Spread Prediction
